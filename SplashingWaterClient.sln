@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SplashingWaterClient", "SplashingWaterClient\SplashingWaterClient.vcxproj", "{171E2255-BC5A-4C98-A408-AE62FC83142E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Win32 = CD_ROM|Win32
+		CD_ROM|x64 = CD_ROM|x64
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		DVD-5|Win32 = DVD-5|Win32
+		DVD-5|x64 = DVD-5|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+		SingleImage|Win32 = SingleImage|Win32
+		SingleImage|x64 = SingleImage|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.CD_ROM|Win32.ActiveCfg = Release|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.CD_ROM|Win32.Build.0 = Release|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.CD_ROM|x64.ActiveCfg = Debug|x64
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.CD_ROM|x64.Build.0 = Debug|x64
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.Debug|Win32.Build.0 = Debug|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.Debug|x64.ActiveCfg = Release|x64
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.Debug|x64.Build.0 = Release|x64
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.DVD-5|Win32.ActiveCfg = Debug|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.DVD-5|Win32.Build.0 = Debug|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.DVD-5|x64.ActiveCfg = Debug|x64
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.DVD-5|x64.Build.0 = Debug|x64
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.Release|Win32.ActiveCfg = Release|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.Release|Win32.Build.0 = Release|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.Release|x64.ActiveCfg = Release|x64
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.Release|x64.Build.0 = Release|x64
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.SingleImage|Win32.ActiveCfg = Release|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.SingleImage|Win32.Build.0 = Release|Win32
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.SingleImage|x64.ActiveCfg = Debug|x64
+		{171E2255-BC5A-4C98-A408-AE62FC83142E}.SingleImage|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

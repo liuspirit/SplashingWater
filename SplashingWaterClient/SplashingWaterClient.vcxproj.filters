@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="头文件\Strategy">
+      <UniqueIdentifier>{17bd8549-379b-4905-b81c-d0ff8f7b6f55}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Strategy">
+      <UniqueIdentifier>{03d3ed02-05c7-4c95-8d3e-88ce657845d3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\MessageBuffer">
+      <UniqueIdentifier>{85dc1305-5cfa-4411-9571-e6b067153aec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\MessageBuffer">
+      <UniqueIdentifier>{894e84c6-1bea-4417-b529-1c4a5f9dbcf2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="SplashingWaterClient.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SplashingWaterClientDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer\ObserverInterface.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Observer\Subject.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="FileOperation.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpThread.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LogManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Converter.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="HttpClient.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="StrTool.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageHandler.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="IStrategy.h">
+      <Filter>头文件\Strategy</Filter>
+    </ClInclude>
+    <ClInclude Include="RegisterStrategy.h">
+      <Filter>头文件\Strategy</Filter>
+    </ClInclude>
+    <ClInclude Include="SendStrategy.h">
+      <Filter>头文件\Strategy</Filter>
+    </ClInclude>
+    <ClInclude Include="LogicDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="RegisterDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LogicStrategy.h">
+      <Filter>头文件\Strategy</Filter>
+    </ClInclude>
+    <ClInclude Include="SmartPtr.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MainPageDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageData.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MessageBuffer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="PipeQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="AddFriendDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="UpdateStrategy.h">
+      <Filter>头文件\Strategy</Filter>
+    </ClInclude>
+    <ClInclude Include="StateStrategy.h">
+      <Filter>头文件\Strategy</Filter>
+    </ClInclude>
+    <ClInclude Include="ConfigReader.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SplashingWaterClient.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="SplashingWaterClientDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Observer\Subject.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="FileOperation.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpThread.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LogManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Converter.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="HttpClient.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="StrTool.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageHandler.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RegisterStrategy.cpp">
+      <Filter>源文件\Strategy</Filter>
+    </ClCompile>
+    <ClCompile Include="SendStrategy.cpp">
+      <Filter>源文件\Strategy</Filter>
+    </ClCompile>
+    <ClCompile Include="LogicDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="RegisterDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LogicStrategy.cpp">
+      <Filter>源文件\Strategy</Filter>
+    </ClCompile>
+    <ClCompile Include="MainPageDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageData.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MessageBuffer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="PipeQueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="AddFriendDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="UpdateStrategy.cpp">
+      <Filter>源文件\Strategy</Filter>
+    </ClCompile>
+    <ClCompile Include="StateStrategy.cpp">
+      <Filter>源文件\Strategy</Filter>
+    </ClCompile>
+    <ClCompile Include="ConfigReader.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SplashingWaterClient.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\SplashingWaterClient.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\SplashingWaterClient.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
