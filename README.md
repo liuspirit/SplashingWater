@@ -1,2 +1,2 @@
-# SplashingWater
-this is client and server for chatting with others
+# SplashingWaterClient
+this is client for chatting with others
